@@ -7,12 +7,11 @@ The purpose of these maps is to demonstrate key web mapping techniques, includin
 
 ---
 
-## Live Map Links
-- **Earthquake Map (Japan, 2017):** [View Map](https://your-earthquake-map-link.com)  
-- **COVID-19 Choropleth Map (US, 2020):** [View Map](https://your-covid-choro-map-link.com)  
-- **COVID-19 Proportional Symbols Map (US, 2020):** [View Map](https://your-covid-proportional-map-link.com)  
+## Live Map Links 
+- **COVID-19 Choropleth Map (US, 2020):** [View Map](https://github.com/jishnuk123.github.io/Web-Map-Application/map1.html)  
+- **COVID-19 Proportional Symbols Map (US, 2020):** [View Map](https://github.com/jishnuk123.github.io/Web-Map-Application/map2.html)  
 
-*(Replace links with your deployed GitHub Pages URLs.)*
+
 
 ---
 
