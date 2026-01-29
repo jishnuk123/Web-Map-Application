@@ -1,18 +1,13 @@
 # Web Mapping Lab 03: Earthquakes near Japan (September 2017) & COVID-19 in the U.S. (2020)
 
 ## Project Overview
-This project consists of two interactive web maps in which first map visualizes **COVID-19 cases and rates in the United States (2020)**, using both a **choropleth map** (for case rates per 1,000 residents) and a second map visualizes the **proportional symbol map** (for total case counts).  
-
-The purpose of these maps is to demonstrate key web mapping techniques, including data-driven symbology, interactivity, legend creation, and proper map design for user readability.
+This project consists of two interactive web maps in which first map visualizes **COVID-19 cases and rates in the United States (2020)**, using both a **choropleth map** (for case rates per 1,000 residents) and a second map visualizes the **proportional symbol map** (for total case counts). The purpose of these maps is to demonstrate key web mapping techniques, including data-driven symbology, interactivity, legend creation, and proper map design for user readability.
 
 ---
 
 ## Live Map Links 
-- **COVID-19 Choropleth Map (US, 2020):** [View Map](https://github.com/jishnuk123.github.io/Web-Map-Application/map1.html)  
-- **COVID-19 Proportional Symbols Map (US, 2020):** [View Map](https://github.com/jishnuk123.github.io/Web-Map-Application/map2.html)  
-
-
-
+- **COVID-19 Choropleth Map (US, 2020):** [View Map](https://jishnuk123.github.io/Web-Map-Application/map1.html)  
+- **COVID-19 Proportional Symbols Map (US, 2020):** [View Map](https://jishnuk123.github.io/Web-Map-Application/map2.html)  
 ---
 
 ## Screenshots
